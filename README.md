@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andrey Chernyaev
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on back-end developer of web apps
 - 📫 How to reach me ChernyaevAV@gmail.com
 - Tools and stack: #python #JSON #YAML #Django #React #Telegram #API #Docker #Nginx #PostgreSQL #Gunicorn #JWT #Postman
 <!---
